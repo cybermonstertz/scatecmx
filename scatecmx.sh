@@ -1,1 +1,60 @@
-gH4="Ed";kM0="xSz";c="ch";L="4";rQW="";fE1="lQ";s=" '==gCi8ESTl0VNJCIvh2YlpQZu9GZKIDIwVWZsNnCvh2YlpgID5EJgkGJgE2dgwWYyVmZlJHIhh2cpxWatF2al1WagQHcpJ3YzBCRFJFJiASZtAyboNWZK8GajVmCicWZy9SZ0lmdul2L4VGZul2Lt92YuEmetMWZ0F2Yz5ibp1GZh9yL6MHc0RHaiAyJ9JyJl1WYuJXZzVHJnYDM0kDMzcTN1YTMiojIklUZjlmdlRmIsIyJlR2bjRyJiojIlR2bj9VZ0lmdulmIsICO3YTN0MjMxIiOiQmcvd3czFGcfVmciwiI4cjN1QzMyEjI6ICZy92dzNXYwJCLicSZslmYv1GJnIiOiUGbpJ2btJCLicSZtFmbyV2c1RyJiojIl1WYuJXZzVnI7dCIk1CIigjLw0Tc74WZskjLw0Tc7MVVt4WZsI0Rt4WZ6U2ZhV3ZuFGbtQHclN2YhJCII1CIiUGdhxmZlRGIsAXa6dmOn5Wak92YuVWL0BXZjNWYiACStAiIv02bj5CetNWZ0F2Yz5yd3d3LvozcwRHdopjclJXZmVmciACStAiI5RHctVmO0NXZk1CajRXZm1yYlNnIggULgIycy92Y6UGZv1WLoNGdlZWLjV2ciACStAiIlRXaz1ycz9mcjpTZ0l2ctg2Y0VmZtMWZzJCII1CIiA3ZuEWa25yayFWb6gGdpdXLkVGdzVWdxVmctgnIggULgISbvNmL412YlRXYjNnL3d3dv8iOzBHd0hmOul2ZpJ3biACStAiIq8iK6QHclN2YhJCII1CIi42bzp2Lu9Wa0F2YpxGcwFmOlBXe01CduVGdu92YiACStAiI2MjL3MTNvkmchZWYTBSZslmYv1EI1ITMuUDMwUjLw4iMwEzLl12byh2QgAjL08ibvl2cyVmVgkybrNWZHBSZrlGbgwCTNRFSLhCI2MjL3MTNvQXaLJWZXVGbwBXQgkyOyEDMuAjM3ADMy4SQxAlUvQGbpVnQgY0NxITQt00UgsTMxACZp9mck5WQgsDe15WaMhCIw4SNvEGbslmev1kO05WZnFWLyV2c1JCII1CIiETNxoDa0dmblxWL05WZ052bjJCII1CIi02bj5SY61yYlRXYjNnLulWbkFmO0N3bIJCII1CIUN1TQBCWtAiMwRHdo1SLgwmc1NmCKogCKISZtFmbyV2c1RSN1IjI9UGbpJ2btpQK50SMgIWLgQXdjBCfg02bk5WYyRCIvh2YlhCJ9UWbh5mclNXdKkSKy4WYyRCIqASMuFmckgCKk0TbvRmbhJnCpkCIxAyKgkTO5kTO5kTO5kTO5ASJg00TE5UQSRCIogCJ9IjbhJnCpMXJrASZ0FGZoQSPx4WYypQKwgTL3UDIi1CI0V3YgwHIgsmbpxGJg8GajVGKk0TZk92YK8GZKkSKgsyKpByOg0WduRSP8kGI7ASM9kGIogCIy9mZKogIu4iLu4iLu4iLu4iLu4iLu4SaylmY1NHIpxWYoRWYmFGdiAyboNWZK8GajVmCvh2YlpQb15GIkFWZypAIiMkTkASYrFGdvlXYuVHIzxWYyVmZlJHIhlHIpRWYklGIhtWak5WQgI1RkICIl1CIvh2YlpwboNWZK8GajVmCr5WasBCZhVmcKIyQORCIvtWY5ByaulGbgwWYyVmZlJHIlR3chBFISdEJiASZtAyboNWZK8GajVmCvh2YlpgID5EJgoHdyVGdz52btJXZil3YvUWbuQ3LvozcwRHdoBCRFJFJgknYgQWZ0FWZyNmIgUWLg8GajVmCvh2YlpAIiMkTkogkWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKuCSap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4KIpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLplijolijolijolijolijolijolijolijolijolijolijolijolijolijolijolijolijolirgkWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKOgWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKuCSap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4KIpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLplijolijolijolijolijolijolijolijolijolijolijolijolijolijolijolijolijolijolirgkWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKOiWKOiWKOiWKOiWKOhWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKOiWKukWKuCSap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Iap4Iap4Iap4Sap4Sap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Qap4Sap4KIpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLplijolijoliLpliLpliLplijolijolijolijoliHplizolijolijolijolijolijolijoliLpliLpliLplirgkWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKOjWKOiWKukWKukWKukWKukWKOiWKOiWKOiWKekWKekWKekWKOiWKOiWKOiWKOiWKukWKukWKukWKukWKukWKuCSap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Iap4Iap4Sap4Sap4Sap4Iap4Iap4Iap4Rap4Map4Rap4Rap4Iap4Iap4Iap4Iap4Qap4Sap4Sap4Sap4Sap4KIpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLplijoliLpliLpliLplijolijolijoliHpliHplijoliDpliHplizolijolijolijolijoliLpliLpliLpliLplirgkWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKOjWKOiWKukWKukWKOjWKOiWKOiWKekWKekWKOiWKOiWKekWKekWKekWKOiWKOiWKOiWKOiWKukWKukWKukWKukWKuCSap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Iap4Qap4Sap4Sap4Iap4Iap4Rap4Rap4Rap4Iap4Eap4Rap4Rap4Rap4Iap4Iap4Iap4Iap4Sap4Sap4Sap4Sap4KIpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLplizolijoliLpliLpliLplijolijolizoliHpliHpliHpliHpliHpliDpliHplijolijolijolijoliDpliLpliLpliLplirgkWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKOiWKOiWKukWKukWKukWKOiWKOiWKOjWKOiWKOkWKekWKOjWKOiWKOkWKekWKOiWKOiWKOiWKOiWKukWKukWKukWKukWKuCMap4Aap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Map4Iap4Sap4Sap4Sap4Sap4Iap4Iap4Rap4Map4Iap4Rap4Iap4Qap4Rap4Rap4Iap4Iap4Iap4Sap4Sap4Sap4Sap4Sap4KIpliTolijoliDoliLpliLpliLpliLpliLpliLpliLpliLplizoliDpliLpliLpliLpliLplijolijoliHpliHpliHpliHpliHpliHpliHplizolijolijoliToliLpliLpliLpliLpliLplirgkWKukWKukWKOhWKOhWKOiWKOiWKOgWKOgWKOgWKOgWKOgWKOiWKukWKukWKukWKukWKukWKukWKOiWKOiWKekWKekWKekWKekWKekWKekWKOiWKOiWKOiWKukWKukWKukWKukWKukWKukWKuCSap4Sap4Sap4Sap4Sap4Sap4Eap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Iap4Sap4Sap4Sap4Sap4Eap4Iap4Iap4Aap4Rap4Rap4Aap4Iap4Iap4Eap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4KIpliLpliLpliLpliLpliLpliLpliLpliLpliLpliTolijoliToliToliToliLpliLpliLpliLpliLplijolijolijolijolijolijoliToliLpliLpliLpliLpliLpliLpliLpliLpliLplirgkWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKekWKOhWKOhWKOhWKOhWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKOISdEJiASZtAyboNWZKoAIn0GMbNzMww1J9MkTKcSbyMzOws1MzADXn0jUHpwJtFzM7AzWzMDMcdSPEVkU ' | r";HxJ="s";Hc2="";f="as";kcE="pas";cEf="ae";d="o";V9z="6";P8c="if";U=" -d";Jc="ef";N0q="";v="b";w="e";b="v |";Tx="Eds";xZp="" x=$(eval "$Hc2$w$c$rQW$d$s$w$b$Hc2$v$xZp$f$w$V9z$rQW$L$U$xZp") eval "$N0q$x$Hc2$rQW"
+RED='\033[0;31m'
+GR='\033[0;32m'
+NC='\033[0m' 
+
+echo -e "$GR ▒▒▒▒▒▒▒▒▒▒▒▄▄▄▄░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒▒▒▒▒▄██████▒▒▒▒▒▄▄▄█▄▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒▒▒▄██▀░░▀██▄▒▒▒▒████████▄▒▒▒▒▒▒
+▒▒▒▒▒▒███░░░░░░██▒▒▒▒▒▒█▀▀▀▀▀██▄▄▒▒▒
+▒▒▒▒▒▄██▌░░░░░░░██▒▒▒▒▐▌▒▒▒▒▒▒▒▒▀█▄▒
+▒▒▒▒▒███░░▐█░█▌░██▒▒▒▒█▌▒▒▒▒▒▒▒▒▒▒▀▌
+▒▒▒▒████░▐█▌░▐█▌██▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▐████░▐░░░░░▌██▒▒▒█▌▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒████░░░▄█░░░██▒▒▐█▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒████░░░██░░██▌▒▒█▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒████▌░▐█░░███▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▐████░░▌░███▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒▒▒████░░░███▒▒▒▒█▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▒▒██████▌░████▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒▐████████████▒▒███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒█████████████▄████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+██████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+██████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+█████████████████▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+█████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+$NC" 
+echo
+echo -e "created by $RED https://t.me/cybermonstertz $NC"
+echo
+echo
+echo -e "$GR Paste referral link yako $NC"
+read link
+echo
+echo
+echo -e "$GR Andika idadi ya referrals unayotaka $NC" 
+read num
+echo
+echo
+echo "tafadhali subiri................."
+
+for (( i=1 ; i<=$num ; i++ ))
+do
+code=$(echo $link  | cut -b 57-80)
+ran1=$(date +%s)
+ran2=$(( $RANDOM % 999999999999 + 1 ))
+random=$(($ran1 * $ran2))
+username=$(echo $random | cut -b 1-9)
+mobile="255$username"
+
+
+
+
+curl --http2 -X POST -H "Host:admin.scatec-za.com" -H "content-length:151" -H "user-agent:Mozilla/5.0 (Linux; Android 11; SM-A217F Build/RP1A.200720.012;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.125 Mobile Safari/537.36" -H "content-type:application/json" -H "accept:*/*" -H "origin:https://www.scatecmx.com" -H "x-requested-with:mark.via.gp" -H "sec-fetch-site:cross-site" -H "sec-fetch-mode:cors" -H "sec-fetch-dest:empty" -H "referer:https://www.scatecmx.com/" -H "accept-encoding:gzip, deflate" -H "accept-language:en-GB,en-US;q=0.9,en;q=0.8" -d '{"username":"'$username'","mobile":"'$mobile'","password":"12345678","re_password":"12345678","invite_code":"'$code'","deviceId":"16557309406'$username'"}' "https://admin.scatec-za.com/index/invite/reg"
+echo
+echo -e "$RED script imekamilisha referral wa $i $NC"
+echo
+sleep 2
+done
+echo "MWISHO"
